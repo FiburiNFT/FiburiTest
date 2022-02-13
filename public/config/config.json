@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x041EF68c8436863999Dc3693DC54a758fA42ec0A",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x041ef68c8436863999dc3693dc54a758fa42ec0a",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "FiburiReveal",
+  "SYMBOL": "FBRVL",
+  "MAX_SUPPLY": 555,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/fiburireveal",
+  "SHOW_BACKGROUND": true
+}
